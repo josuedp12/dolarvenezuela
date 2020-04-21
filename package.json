@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "build": "vue-cli-service build --watch",
+    "lint": "vue-cli-service lint",
+    "watch": "npm run development -- --watch"
   },
   "dependencies": {
     "core-js": "^3.6.4",
