@@ -1,7 +1,7 @@
 <template>
   <div class="dashboard-header">
     <nav class="navbar navbar-expand-lg bg-white fixed-top">
-      <a class="navbar-brand" href="index.html">Concept</a>
+      <a class="navbar-brand" href="index.html">Dolar Venezuela</a>
       <button
         class="navbar-toggler"
         type="button"
@@ -32,7 +32,7 @@
             ></a>
             <ul class="dropdown-menu dropdown-menu-right notification-dropdown">
               <li>
-                <div class="notification-title">Notification</div>
+                <div class="notification-title">Notificaciones</div>
                 <div class="notification-list">
                   <div class="list-group">
                     <a
@@ -49,9 +49,9 @@
                         </div>
                         <div class="notification-list-user-block">
                           <span class="notification-list-user-name"
-                            >Jeremy Rakestraw</span
-                          >accepted your invitation to join the team.
-                          <div class="notification-date">2 min ago</div>
+                            >Josue Davila</span
+                          >Ha aceptado tu invitación para entrar en el equipo.
+                          <div class="notification-date">2 minutos atras</div>
                         </div>
                       </div>
                     </a>
@@ -66,9 +66,9 @@
                         </div>
                         <div class="notification-list-user-block">
                           <span class="notification-list-user-name"
-                            >John Abraham </span
-                          >is now following you
-                          <div class="notification-date">2 days ago</div>
+                            >Paola Fernandez </span
+                          >Te está siguiendo
+                          <div class="notification-date">2 días atras</div>
                         </div>
                       </div>
                     </a>
@@ -83,10 +83,10 @@
                         </div>
                         <div class="notification-list-user-block">
                           <span class="notification-list-user-name"
-                            >Monaan Pechi</span
+                            >Jenny San</span
                           >
-                          is watching your main repository
-                          <div class="notification-date">2 min ago</div>
+                          Te está mirando sin ropa :*
+                          <div class="notification-date">2 semanas atras</div>
                         </div>
                       </div>
                     </a>
@@ -101,9 +101,9 @@
                         </div>
                         <div class="notification-list-user-block">
                           <span class="notification-list-user-name"
-                            >Jessica Caruso</span
-                          >accepted your invitation to join the team.
-                          <div class="notification-date">2 min ago</div>
+                            >La vecina</span
+                          >Ha aceptado tu invitación para salir :v
+                          <div class="notification-date">2 semanas atras</div>
                         </div>
                       </div>
                     </a>
@@ -112,7 +112,7 @@
               </li>
               <li>
                 <div class="list-footer">
-                  <a href="#">View all notifications</a>
+                  <a href="#">Ver todas las Notificaciones</a>
                 </div>
               </li>
             </ul>
@@ -196,17 +196,17 @@
               aria-labelledby="navbarDropdownMenuLink2"
             >
               <div class="nav-user-info">
-                <h5 class="mb-0 text-white nav-user-name">John Abraham</h5>
-                <span class="status"></span><span class="ml-2">Available</span>
+                <h5 class="mb-0 text-white nav-user-name">Jaime Blanco de Dávila</h5>
+                <span class="status"></span><span class="ml-2">Disponible</span>
               </div>
               <a class="dropdown-item" href="#"
-                ><i class="fas fa-user mr-2"></i>Account</a
+                ><i class="fas fa-user mr-2"></i>Cuenta</a
               >
               <a class="dropdown-item" href="#"
-                ><i class="fas fa-cog mr-2"></i>Setting</a
+                ><i class="fas fa-cog mr-2"></i>Configuraciones</a
               >
               <a class="dropdown-item" href="#"
-                ><i class="fas fa-power-off mr-2"></i>Logout</a
+                ><i class="fas fa-power-off mr-2"></i>Salir</a
               >
             </div>
           </li>
